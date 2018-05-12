@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '1234'
     url: http://www.gutenberg.org/2009/agents/1234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21763#The-Brentons
 gutenberg_issued: '2007-06-08'
 gutenberg_type: Text
 identifiers:
